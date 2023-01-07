@@ -1,9 +1,7 @@
-#include <SFML/Graphics.hpp>
-#include <iostream>
-#define SCREEN_WIDTH 1024
-#define SCREEN_HEIGHT 1024
+#include "Game.hpp"
+#include "DEFINITIONS.hpp"
 
-int main() {
-
-
+int main()
+{
+	ttt::Game(SCREEN_WIDTH, SCREEN_HEIGHT, "Tic-Tac-Toe");
 }

@@ -1,24 +1,32 @@
 #pragma once
+
 #include <memory>
 #include <stack>
-#include "State.h"
 
-namespace ttt {
+#include "State.hpp"
+
+namespace ttt
+{
 	typedef std::unique_ptr<State> StateRef;
+
 	class StateMachine
 	{
 	public:
-		StateMachine() {};
-		~StateMachine() {};
+		StateMachine() { }
+		~StateMachine() { }
+
 		void AddState(StateRef newState, bool isReplacing = true);
 		void RemoveState();
+		// Run at start of each loop in Game.cpp
 		void ProcessStateChanges();
-		StateRef& GetActiveState();
+
+		StateRef &GetActiveState();
+
 	private:
 		std::stack<StateRef> _states;
 		StateRef _newState;
+
 		bool _isRemoving;
-		bool _isAdding;
-		bool _isReplacing;
+		bool _isAdding, _isReplacing;
 	};
 }

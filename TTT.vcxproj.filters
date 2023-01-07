@@ -15,36 +15,75 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TTT.cpp">
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\AI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="StateMachine.cpp">
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\AssetManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="AssetManager.cpp">
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="inputManager.cpp">
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\GameOverState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Game.cpp">
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\GameState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\InputManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\MainMenuState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\PauseState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\SplashState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\StateMachine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="State.h">
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\AI.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="StateMachine.h">
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\AssetManager.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="AssetManager.h">
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\DEFINITIONS.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="inputManager.h">
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\Game.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Game.h">
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\GameState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\InputManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\PauseState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\StateMachine.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\State.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\SplashState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\MainMenuState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\gitcopy\Tic-Tac-Toe-SFML-CPP\Code\GAME LOGIC\16 - Show Game Over Screen\GameOverState.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
